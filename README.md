@@ -274,7 +274,7 @@ If you are trying to use Multi-Factor Authentication, please see this comment an
 
 For more information, see [ECS CLI Configuration](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ECS_CLI_Configuration.html).
 
-## Using the CLI
+# Using the CLI
 
 ECS now offers two different launch types for tasks and services: EC2 and FARGATE. With the FARGATE
 launch type, customers no longer have to manage their own container-instances.
